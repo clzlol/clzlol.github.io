@@ -49,3 +49,8 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
+
+comment:
+  provider:     "disqus"
+  disqus:
+    shortname:      "clzlol"
