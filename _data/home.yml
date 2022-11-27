@@ -1,4 +1,9 @@
 navbar_entries:
+  -title: about
+   url: about
+
+  -title: blog
+   url: blog
 
 project_entries:
   - title: Git & Github
