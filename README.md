@@ -1,4 +1,4 @@
-## moonwalk - a fast and minimalistic blog theme with clean dark mode
+<!-- ## moonwalk - a fast and minimalistic blog theme with clean dark mode
 
 <img src="https://raw.githubusercontent.com/abhinavs/moonwalk/master/_screenshots/moonwalk.png" />
 
@@ -151,4 +151,9 @@ If you like Moonwalk, do check out my other projects
 
 ✨⚡You can read more about me on my [blog](https://www.abhinav.co/about/) or follow me on Twitter - [@abhinav](https://twitter.com/abhinav)
 
-✨⚡If you like my work, you can [buy me a coffee](https://buymeacoffee.com/abhinavs)                
+✨⚡If you like my work, you can [buy me a coffee](https://buymeacoffee.com/abhinavs)                 -->
+
+# BLOG GAME 생성 과정
+1. Git 설치와 Github 계정 생성, vscode 설치, git clone
+2. jekyll 설치, 테마 추가
+3. 포스트 작성
