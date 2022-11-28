@@ -24,13 +24,14 @@ Markdown을 이용해 [다음](https://clzlol.github.io/google-analytics-%EC%B6%
 ```md
 comment:
   provider: "disqus"
+  
   disqus:
     shortname: "clzlol"
 ```
 
 마지막으로 댓글 기능을 추가할 post 파일에 아래의 코드를 추가해준다.
 
-```markdown
+```md
 comments: true
 ```
 
