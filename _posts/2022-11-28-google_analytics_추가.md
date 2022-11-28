@@ -7,7 +7,7 @@ comments: true
 ---
 
 ## Google Analytics 등록하기
-[google analytics][https://analytics.google.com/analytics/web/#/]에 접속하여 측정 시작을 누른 뒤 다음과 같은 과정을 따라 계정 생성을 진행합니다.
+[google analytics](https://analytics.google.com/analytics/web/#/)에 접속하여 측정 시작을 누른 뒤 다음과 같은 과정을 따라 계정 생성을 진행합니다.
 ![2](\images\2.png)
 
 ![2-1](\images\2-1.png)

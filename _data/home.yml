@@ -58,9 +58,6 @@ footer_entries:
   - title: github
     url: https://github.com/clzlol/clzlol.github.io
 
-  - title: feed
-    url: feed.xml
-
 misc_entries:
   - title: this is an example vertical list
     url: false
