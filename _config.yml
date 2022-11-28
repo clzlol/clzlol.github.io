@@ -53,10 +53,3 @@ comment:
   provider:     "disqus"
   disqus:
     shortname:      "clzlol"
-
-analytics:
-  provider: "google-gtag"
-
-  google:
-    tracking_id: "G-RL98VGDRBP"
-    anonymize_ip: false
