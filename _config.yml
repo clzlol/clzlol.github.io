@@ -53,3 +53,5 @@ comment:
   provider:     "disqus"
   disqus:
     shortname:      "clzlol"
+
+google_analytics: 'G-RL98VGDRBP'
