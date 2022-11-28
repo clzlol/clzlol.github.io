@@ -51,10 +51,6 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-
-  - title: twitter
-    url: https://twitter.com/
-
   - title: github
     url: https://github.com/clzlol/clzlol.github.io
 
