@@ -1,7 +1,7 @@
 # BLOG GAME 생성 과정
 1. 테마 fork 후 로컬에 clone하기
 
-내가 고른 [테마](https://github.com/abhinavs/moonwalk)의 Github로 이동하여 내 repository로 fork한다. 이후 [Git&Github 포스트](https://clzlol.github.io/git-github)에 있는 git clone을 이용해 fork하여 내 repo에 불러온 파일들을 로컬로 복사한다.
+내가 고른 [테마](https://github.com/abhinavs/moonwalk)의 Github로 이동하여 내 repository로 fork한다. 이후 특강 시간에 진행한 Git과 Github에 관해 배운 내용을 정리한[Git&Github 포스트](https://clzlol.github.io/git-github)에 있는 명령어들을 이용해 fork하여 내 repo에 불러온 파일들을 로컬로 복사한다.
 
 
 2. jekyll 설치
@@ -21,7 +21,7 @@ Markdown을 이용해 [다음](https://clzlol.github.io/google-analytics-%EC%B6%
 
 먼저 [Disqus](https://disqus.com/)에 가입하고 Universal Embed Code를 복사하여 _layouts 폴더 내의 post.html에 붙여넣기를 해준다. 이후 page.url과 page.identifier에 내 Git Blog의 주소와 닉네임을 적어준다. 그리고 _config.yml의 아래에 다음 코드를 추가해준다.
 
-```markdown
+```md
 comment:
   provider: "disqus"
   disqus:
