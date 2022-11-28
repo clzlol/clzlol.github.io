@@ -54,4 +54,9 @@ comment:
   disqus:
     shortname:      "clzlol"
 
-google_analytics: 'G-RL98VGDRBP'
+analytics:
+  provider: "google-gtag"
+
+  google:
+    tracking_id: "G-RL98VGDRBP"
+    anonymize_ip: false
